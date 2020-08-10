@@ -1,12 +1,4 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+A java code that reads the image provided, then has a percentage chance to interpolate from its selected, original pixel color. Translated from p5.js into Java. Original p5 file from datamoshing.com
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+To Do: Fix the lossy conversion bug.
+Add a draw method.
